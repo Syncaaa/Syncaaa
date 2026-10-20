@@ -51,10 +51,7 @@ Every project follows the same path: specification, RTL, verification, synthesis
 
 ![Verilog](https://img.shields.io/badge/Verilog-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=58a6ff)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=58a6ff)
-![Assembly](https://img.shields.io/badge/Assembly%20(MIPS)-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=58a6ff)
 ![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&labelColor=161b22&color=161b22&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&labelColor=161b22&color=161b22&logoColor=58a6ff)
-![Haskell](https://img.shields.io/badge/Haskell-161b22?style=flat-square&logo=haskell&labelColor=161b22&color=161b22&logoColor=58a6ff)
 ![KiCad](https://img.shields.io/badge/KiCad-161b22?style=flat-square&logo=kicad&labelColor=161b22&color=161b22&logoColor=58a6ff)
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&labelColor=161b22&color=161b22&logoColor=58a6ff)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&labelColor=161b22&color=161b22&logoColor=58a6ff)
