@@ -7,8 +7,6 @@
 <br/>
 
 [![English](https://img.shields.io/badge/English-active-1f6feb?style=flat-square&labelColor=0d1117)](./README.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-lesen-30363d?style=flat-square&labelColor=0d1117)](./README.de.md)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/divider.svg" width="100%" alt=""/>
