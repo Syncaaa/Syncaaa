@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hardware+Engineer+%40+NETJAN;Electrical+Engineering+student;From+RTL+to+GDSII;Verification+is+not+optional" alt="Typing animation"/>
 
-<br/>
-
-[![English](https://img.shields.io/badge/English-active-1f6feb?style=flat-square&labelColor=0d1117)](./README.md)
 </div>
 
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/divider.svg" width="100%" alt=""/>
@@ -17,7 +14,10 @@ I'm a hardware engineer at **NETJAN**, designing PCBs with KiCad, and an **Elect
 
 I'm building towards chip engineering. This profile is my public lab notebook: throughout my degree I will publish every chip I make, **from code to ASIC, with verification and everything in between.**
 
+I'm also studying **English** and **Mandarin Chinese**, because chips are a global industry and I want to be ready to work with teams anywhere, including Taiwan.
+
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/divider.svg" width="100%" alt=""/>
+
 ## The Flow
 
 <div align="center">
@@ -40,6 +40,7 @@ Every project follows the same path: specification, RTL, verification, synthesis
 | Verification | Self-checking testbenches, assertions, coverage |
 | Physical Design | Synthesis, floorplanning, place and route, STA |
 | Computer Architecture | RISC-V, microarchitecture, gem5 |
+| Languages | Portuguese (native), English (studying), Mandarin (studying) |
 
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/divider.svg" width="100%" alt=""/>
 
@@ -75,7 +76,6 @@ Every project follows the same path: specification, RTL, verification, synthesis
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Syncaaa-161b22?style=flat-square&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/Syncaaa)
-<!-- Replace with your own links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USER)
 [![Email](https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:YOUR-EMAIL)
 
