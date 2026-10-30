@@ -14,7 +14,7 @@ I'm a hardware engineer at **NETJAN**, designing PCBs with KiCad, and an **Elect
 
 I'm building towards chip engineering. This profile is my public lab notebook: throughout my degree I will publish every chip I make, **from code to ASIC, with verification and everything in between.**
 
-I'm also studying **English** and **Mandarin Chinese**, because chips are a global industry and I want to be ready to work with teams anywhere, including Taiwan.
+I'm also studying **English** and **Japanese**, because chips are a global industry and I want to be ready to work with teams anywhere, including Taiwan.
 
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/divider.svg" width="100%" alt=""/>
 
