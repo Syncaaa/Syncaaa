@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Syncaaa/Syncaaa/master/banner.svg" alt="Jean Lucas – Hardware & Chip Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hardware+Engineer+%40+NETJAN;Electrical+Engineering+student;From+RTL+to+GDSII;Verification+is+not+optional" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hardware+Engineer+%40+NETJAN;Computer+Science+student;From+RTL+to+GDSII;Verification+is+not+optional" alt="Typing animation"/>
 
 </div>
 
