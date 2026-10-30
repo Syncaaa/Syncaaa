@@ -10,7 +10,7 @@
 
 ## About
 
-I'm a hardware engineer at **NETJAN**, designing PCBs with KiCad, and an **Electrical Engineering** student based in São Paulo, Brazil.
+I'm a hardware engineer at **NETJAN**, designing PCBs with KiCad, and an **Computer Science** student based in São Paulo, Brazil.
 
 I'm building towards chip engineering. This profile is my public lab notebook: throughout my degree I will publish every chip I make, **from code to ASIC, with verification and everything in between.**
 
@@ -35,7 +35,6 @@ Every project follows the same path: specification, RTL, verification, synthesis
 | Area | Topics |
 | :-- | :-- |
 | Mathematics | Fundamentals, calculus, advanced linear algebra |
-| Electrical Engineering | Circuits, signals, electronics, digital systems |
 | Digital Design | Verilog, SystemVerilog, FSMs, pipelining, timing |
 | Verification | Self-checking testbenches, assertions, coverage |
 | Physical Design | Synthesis, floorplanning, place and route, STA |
